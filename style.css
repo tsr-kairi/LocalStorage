@@ -27,7 +27,7 @@ button {
   height: 60px;
 }
 
-@media screen {
+@media screen and (max-width: 768px) {
   .fieldest {
     display: flex;
     align-items: center;
