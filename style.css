@@ -27,6 +27,15 @@ button {
   height: 60px;
 }
 
+.made {
+  margin-top: 30px;
+  font-size: 0.8rem;
+}
+
+a {
+  text-decoration: none;
+}
+
 @media screen and (max-width: 768px) {
   .fieldest {
     display: flex;
